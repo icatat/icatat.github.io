@@ -1,5 +1,5 @@
 pages:
-  - Cover:
+  - name: Cover
     link: /cover.html
   - name: About
     link: /about.html
