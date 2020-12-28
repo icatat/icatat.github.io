@@ -4,16 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">  
 </head>
 <body>
-    <div>
-        <nav class="navbar navbar-dark bg-dark">
-            <a class="navbar-brand" href="/cover.html">
-              Cattion
-              </a>
-              {% include navigation.html %}
-          </nav>
-    </div>
-    <div >
-        {% include about.html %} 
+    <div class="content-container">
+        <div class="main-container">
+            <div>
+                <nav class="navbar navbar-dark bg-dark">
+                    <a class="navbar-brand" href="/cover.html">
+                    Cattion
+                    </a>
+                    {% include navigation.html %}
+                </nav>
+            </div>
+            <div >
+                {% include about.html %} 
+            </div>
+        </div>    
+        {% include footer-signature.html %} 
     </div>
     {% include footer.html %} 
 </body>

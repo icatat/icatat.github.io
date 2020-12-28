@@ -22,3 +22,18 @@ img {
 .nav-link {
   color: $gray-light;
 }
+
+.footer {
+  text-align: center;
+  font-size: 0.8em;
+  width: '-webkit-fill-available' !important;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.main-container {
+  flex: 1;
+}

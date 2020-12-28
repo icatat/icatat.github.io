@@ -1,10 +1,6 @@
 pages:
-  - name: Cover
-    link: /cover.html
   - name: About
     link: /about.html
   - name: Portfolio
     link: /portfolio.html
-  - name: Blog
-    link: /blog.html
   - name: Contact
