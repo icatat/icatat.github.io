@@ -1,0 +1,21 @@
+<div class="badge-about col-lg-12 col-sm-12 col-md-12" style="display: flex">
+  <div
+    class="col-lg-6 col-sm-6 col-md-6"
+    style="vertical-align: middle; display: flex"
+  >
+    <span class="align-middle" style="margin: auto">
+      <img
+        src="{{ site.url }}{{ site.baseurl }}/assets/images/main.jpg"
+        alt=""
+      />
+    </span>
+  </div>
+  <div class="col-lg-6 col-sm-6 col-md-6">
+    <div id="about">
+      {% for item in site.authors %}
+      <h5 class="card-subtitle">{{ item.description}}</h5>
+      <p class="card-text">{{ item.content }}</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>

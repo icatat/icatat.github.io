@@ -1,0 +1,9 @@
+# Permalinks
+permalink: /:title
+collections:
+  authors:
+    output: true
+sass:
+  sass_dir: assets/css
+sass:
+  style: compressed
