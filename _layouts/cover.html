@@ -1,0 +1,23 @@
+---
+author: cat
+---
+
+<!DOCTYPE html>
+<html  lang="en">
+    {% include head.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+</head>
+<body>
+    <div style="display: flex;">
+    <h1 style="justify-content: center; margin:auto; display: flex;"><b style="color:white">Cat</b>alina<b style="color:white"> T</b>eodora <b style="color:white"> Ion</b>escu</h1>
+    </div>
+    {{ content }}
+    <div class="container-fluid" style="margin:auto">
+    {% include badge.html %} 
+    </div>
+    <div>
+     {% include navigation.html %} {{ content }}
+    </div>
+    {% include footer.html %} 
+</body>
+</html>
