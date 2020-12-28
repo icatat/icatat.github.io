@@ -1,0 +1,24 @@
+// Your variable overrides
+
+// @import 'bootstrap/bootstrap';
+@import 'custom/custom';
+
+.badge {
+  justify-content: center;
+}
+
+.badge,
+.badge-about {
+  background-color: $orange !important;
+  height: fit-content;
+  color: $gray-dark !important;
+  width: '-webkit-fill-available' !important;
+}
+
+img {
+  height: 350px;
+}
+
+.nav-link {
+  color: $gray-light;
+}
