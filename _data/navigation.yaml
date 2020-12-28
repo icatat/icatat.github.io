@@ -1,4 +1,6 @@
 pages:
+  - Cover:
+    link: /cover.html
   - name: About
     link: /about.html
   - name: Portfolio
