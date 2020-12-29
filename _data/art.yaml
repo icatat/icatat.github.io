@@ -93,19 +93,40 @@ portfolio:
       - name: Croquis of a male body
         technique: Pencil
         path: Croquis1.png
-  #   - year: 2011
-  #     work:
-  #       - name: Horse Sketch
-  #         technique: Pencil
-  #         path: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed6c0cf1-0b21-49bd-9f2e-d15da5090466/d50q0ko-8d031824-0e66-451b-8d59-10c6582172d2.jpg/v1/fill/w_764,h_1046,q_70,strp/horse_by_icatat_d50q0ko-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0yNzUzIiwicGF0aCI6IlwvZlwvZWQ2YzBjZjEtMGIyMS00OWJkLTlmMmUtZDE1ZGE1MDkwNDY2XC9kNTBxMGtvLThkMDMxODI0LTBlNjYtNDUxYi04ZDU5LTEwYzY1ODIxNzJkMi5qcGciLCJ3aWR0aCI6Ijw9MjAxMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XgJqEfY1gynqV4aZHUaucpUL5VtdPFzvvGWh9lzaizE
+      - name: Mother
+        technique: Pencil
+        path: Mother.png
+  - year: 2011
+    work:
+      - name: Scream
+        technique: Oil
+        path: Scream.png
+      - name: Roots
+        technique: Oil
+        path: Roots.png
+      - name: Horse Sketch
+        technique: Pencil
+        path: Horse.png
+      - name: Green
+        technique: Ink
+        path: Green.png
   - year: 2010
+    work:
+      - name: No emotions
+        technique: Oil + Gold Foil
+        path: Robot.png
+      - name: Last Dance
+        technique: Oil
+        path: LastDance.png
+      - name: Potrait of Josette Gris
+        details: Reproduction (original by Juan Gris)
+        technique: Guache
+        path: PotraitOfJosetteGris.png
   - year: 2009
     work:
       - name: Time
         technique: Acrylic on Canvas
         path: Time.png
-#   - year: 2008
-#     work:
-#       - name: Two
-#         technique: Acrylic on Canvas
-#         path: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed6c0cf1-0b21-49bd-9f2e-d15da5090466/d4x08de-88988a09-db9b-49d8-b1e5-f723731b59d1.jpg/v1/fill/w_900,h_678,q_75,strp/paintings_by_icatat_d4x08de-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NzgiLCJwYXRoIjoiXC9mXC9lZDZjMGNmMS0wYjIxLTQ5YmQtOWYyZS1kMTVkYTUwOTA0NjZcL2Q0eDA4ZGUtODg5ODhhMDktZGI5Yi00OWQ4LWIxZTUtZjcyMzczMWI1OWQxLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.abPsDQbC2hwdC0jCRJPDX6M4PIkFB6ymBnuD-YlxNNo
+      - name: Original Sin
+        technique: Acrylic on Canvas
+        path: OriginalSin.png
