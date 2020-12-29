@@ -1,8 +1,11 @@
-<div
-  class="card-columns col-sm-12 col-lg-12 col-md-12"
-  style="display: list-item"
+{% assign years = site.data.art.portfolio%} {% for y in years %}
+<span
+  id="{{ y.year }}"
+  style="width: -webkit-fill-available; text-align: center; display: flex"
+  ><h6>{{ y.year }}</h6></span
 >
-  {% for art in site.data.art.portfolio %}
+<div class="card-columns" style="display: list-item">
+  {% for art in y.work %}
   <div class="card" style="width: auto; height: auto">
     <img
       style="max-width: 30vw; height: auto"
@@ -11,8 +14,10 @@
     />
     <div class="card-body">
       <h5 class="card-title">{{ art.name }}</h5>
-      <p class="card-text">{{ art.technique }} | {{ art.year }}</p>
+      <h6 class="card-text">{{ art.technique }}</h6>
+      <p class="card-text">{{ art.details }}</p>
     </div>
   </div>
   {% endfor %}
 </div>
+{% endfor %}

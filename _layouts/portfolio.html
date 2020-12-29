@@ -5,19 +5,32 @@
 </head>
 <body>
     <div class="content-container">
-        <div class="main-container">
-            <div>
+        <div class=" main-container" >
+            <div style="width: -webkit-fill-available">
                 <nav class="navbar navbar-dark bg-dark">
                     <a class="navbar-brand" href="/cover.html">
                     Cattion
                     </a>
                     {% include navigation.html %}
                 </nav>
-
             </div>
-            <div>
+            <div style="display: flex;"> 
+                <nav id="navbar-example3" class="navbar navbar-dark bg-dark col-sm-2 col-md-2 col-lg-2" style="align-items: flex-start;">
+                    <nav class="nav nav-pills flex-column">
+                        {% for y in site.data.art.portfolio %}
+                         <a class="nav-link" href="#{{y.year}}">{{y.year}}</a>
+                        {% endfor %}
+                    </nav>
+                  </nav>
+                  
+                  <div div class="col-sm-9 col-md-9 col-lg-9" data-spy="scroll" data-target="#navbar-example3" data-offset="0">
+          
+                    {% include art.html %}
+                  </div>
+            </div>
+            <!-- <div class="col-sm-9 col-md-9 col-lg-9" >
             {% include art.html %}
-            </div>
+            </div> -->
         </div>
         {% include footer-signature.html %} 
     </div>
