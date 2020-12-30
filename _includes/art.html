@@ -1,14 +1,10 @@
 {% assign years = site.data.art.portfolio%} {% for y in years %}
-<span
-  id="{{ y.year }}"
-  style="width: -webkit-fill-available; text-align: center; display: flex"
-  ><h6>{{ y.year }}</h6></span
->
+<span class="separator" id="{{ y.year }}"> <h6>{{ y.year }}</h6></span>
 <div class="card-columns" style="display: list-item">
   {% for art in y.work %}
-  <div class="card" style="width: auto; height: auto">
+  <div class="card w-100" style="width: auto; height: auto">
     <img
-      style="max-width: 30vw; height: auto"
+      style="min-width: 10vw; height: auto"
       class="card-img-top"
       src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ art.path }}"
     />
