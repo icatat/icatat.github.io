@@ -9,13 +9,13 @@
             <div style="width: -webkit-fill-available">
                 <nav class="navbar navbar-dark bg-dark">
                     <a class="navbar-brand" href="/cover.html">
-                    Cattion
+                    Cation
                     </a>
                     {% include navigation.html %}
                 </nav>
             </div>
             <div style="display: flex;"> 
-                <nav id="navbar-example3" class="navbar navbar-dark bg-dark col-sm-2 col-md-2 col-lg-2" style="align-items: flex-start;">
+                <nav id="navbar-chrono" class="navbar navbar-dark bg-dark col" style="align-items: flex-start;">
                     <nav class="nav nav-pills flex-column">
                         {% for y in site.data.art.portfolio %}
                          <a class="nav-link" href="#{{y.year}}">{{y.year}}</a>
@@ -23,7 +23,7 @@
                     </nav>
                   </nav>
                   
-                  <div div class="col-sm-9 col-md-9 col-lg-9" data-spy="scroll" data-target="#navbar-example3" data-offset="0">
+                  <div div class="col-sm-10 col-md-10 col-lg-10 col-xl-10 col-xs-10" data-spy="scroll" data-target="#navbar-example3" data-offset="0">
           
                     {% include art.html %}
                   </div>
