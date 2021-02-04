@@ -1,81 +1,133 @@
 portfolio:
   - year: 2020
     work:
+      - name: Ashir
+        technique: Digital(Procreate)
+        path:
+          - Ashir_1.png
+          - Ashir_2.png
       - name: Wine's an attitude
         technique: Digital (Illustrator)
-        path: WinesAnAttitude.png
+        path:
+          - WinesAnAttitude.png
       - name: Blue Lady
         technique: Digital (Illustrator)
-        path: BlueLady.png
+        path:
+          - BlueLady.png
       - name: Lam&Cat
         technique: Digital ( Illustrator)
-        path: Lam&Cat.png
+        path:
+          - Lam&Cat.png
       - name: Big City
         technique: Oil
-        path: BigCity.png
+        path:
+          - BigCity.png
       - name: Big Picture
         technique: Ink + Watercolor
-        path: BigPicture.png
+        path:
+          - BigPicture.png
   - year: 2019
     work:
+      - name: Circle
+        technique: Photoshop
+        path:
+          - Circle.jpg
+      - name: City
+        technique: Photoshop
+        path:
+          - City.png
+      - name: Double Perspective
+        technique: Photoshop
+        path:
+          - Double_Perspective.jpg
+      - name: Find Yourself
+        technique: Photoshop
+        path:
+          - FindYourself.png
+      - name: Transition
+          technique: Photoshop
+          path:
+            - Transition_1.jpg
+            - Transition_2.jpg
+            - Transition_3.jpg
       - name: Thought Processes
         technique: Mixed media (print, collage, Photoshop)
-        path: ThoughtProcesses.png
+        path:
+          - ThoughtProcesses.png
       - name: Nature
         technique: Mixed media
-        path: Nature.png
+        path:
+          - Nature.png
       - name: Social media
         technique: Mixed media
-        path: SocialMedia.png
+        path:
+          - SocialMedia.png
       - name: Notre Dame
         technique: Mixed media
-        path: NotreDame.png
+        path:
+          - NotreDame.png
       - name: Where Cultures Meet
         technique: Mixed Printing + Photoshop
-        path: WhereCulturesMeet.png
+        path:
+          - WhereCulturesMeet.png
+          - Vietnam.png
+          - NewYork.jpg
       - name: Mother Nature
         technique: Mixed media
-        path: MotherNature.png
+        path:
+          - MotherNature.png
       - name: Alice in Wonderland
         technique: Photoshop
-        path: AliceInWonderland.png
+        path:
+          - AliceInWonderland.png
   - year: 2018
   - year: 2017
   - year: 2016
     work:
       - name: Emotions
         technique: Oil
-        path: Emotions.png
+        path:
+          - Emotions.png
       - name: Ingrid
         technique: Oil + collage
-        path: Ingrid.png
+        path:
+          - Ingrid.png
       - name: Sculpturesc
         technique: Oil
-        path: Sculpture.png
+        path:
+          - Sculpture.png
       - name: Lady In Green
         technique: Oil
-        path: LadyInGreen.png
+        path:
+          - LadyInGreen.png
       - name: Lady In Red
         technique: Oil
-        path: LadyInRed.png
+        path:
+          - LadyInRed.png
       - name: Self Portrait
         technique: Oil
-        path: SelfPortrait.png
+        path:
+          - SelfPortrait.png
       - name: Static Nature in Orange and Blue
         technique: Oil
-        path: StaticNatureOrangeBlue.png
+        path:
+          - StaticNatureOrangeBlue.png
       - name: Waiting
         technique: Oil
-        path: Waiting.png
+        path:
+          - Waiting.png
       - name: Waiting Lady
         technique: Oil
-        path: WaitingLady.png
+        path:
+          - WaitingLady.png
       - name: Yellow
         technique: Oil
-        path: Yellow.png
+        path:
+          - Yellow.png
       - name: Red
         technique: Oil
-        path: LadyRedBlack.png
+        path:
+          - LadyRedBlack.png
   - year: 2015
   - year: 2014
   - year: 2013
@@ -83,50 +135,64 @@ portfolio:
     work:
       - name: The Introvert
         technique: Ink
-        path: Introvert.png
+        path:
+          - Introvert.png
       - name: Emotion Croquis
         technique: Ink
-        path: EmotionCroquis.png
+        path:
+          - EmotionCroquis.png
       - name: Teen
         technique: Pencil
-        path: Teen.png
+        path:
+          - Teen.png
       - name: Croquis of a male body
         technique: Pencil
-        path: Croquis1.png
+        path:
+          - Croquis1.png
       - name: Mother
         technique: Pencil
-        path: Mother.png
+        path:
+          - Mother.png
   - year: 2011
     work:
       - name: Scream
         technique: Oil
-        path: Scream.png
+        path:
+          - Scream.png
       - name: Roots
         technique: Oil
-        path: Roots.png
+        path:
+          - Roots.png
       - name: Horse Sketch
         technique: Pencil
-        path: Horse.png
+        path:
+          - Horse.png
       - name: Green
         technique: Ink
-        path: Green.png
+        path:
+          - Green.png
   - year: 2010
     work:
       - name: No emotions
         technique: Oil + Gold Foil
-        path: Robot.png
+        path:
+          - Robot.png
       - name: Last Dance
         technique: Oil
-        path: LastDance.png
+        path:
+          - LastDance.png
       - name: Potrait of Josette Gris
         details: Reproduction (original by Juan Gris)
         technique: Guache
-        path: PotraitOfJosetteGris.png
+        path:
+          - PotraitOfJosetteGris.png
   - year: 2009
     work:
       - name: Time
         technique: Acrylic on Canvas
-        path: Time.png
+        path:
+          - Time.png
       - name: Original Sin
         technique: Acrylic on Canvas
-        path: OriginalSin.png
+        path:
+          - OriginalSin.png
