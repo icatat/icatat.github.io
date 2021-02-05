@@ -45,11 +45,11 @@ portfolio:
         path:
           - FindYourself.png
       - name: Transition
-          technique: Photoshop
-          path:
-            - Transition_1.jpg
-            - Transition_2.jpg
-            - Transition_3.jpg
+        technique: Photoshop
+        path:
+          - Transition_1.jpg
+          - Transition_2.jpg
+          - Transition_3.jpg
       - name: Thought Processes
         technique: Mixed media (print, collage, Photoshop)
         path:
