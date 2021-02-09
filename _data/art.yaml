@@ -17,7 +17,7 @@ portfolio:
       - name: Lam&Cat
         technique: Digital ( Illustrator)
         path:
-          - Lam&Cat.png
+          - Lam&Cat.jpg
       - name: Big City
         technique: Oil
         path:
@@ -43,7 +43,7 @@ portfolio:
       - name: Find Yourself
         technique: Photoshop
         path:
-          - FindYourself.png
+          - FindYourself.jpg
       - name: Transition
         technique: Photoshop
         path:
@@ -69,13 +69,13 @@ portfolio:
       - name: Where Cultures Meet
         technique: Mixed Printing + Photoshop
         path:
-          - WhereCulturesMeet.png
-          - Vietnam.png
+          - WhereCulturesMeet.jpg
+          - Vietnam.jpg
           - NewYork.jpg
       - name: Mother Nature
         technique: Mixed media
         path:
-          - MotherNature.png
+          - MotherNature.jpg
       - name: Alice in Wonderland
         technique: Photoshop
         path:
