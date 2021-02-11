@@ -4,8 +4,8 @@ portfolio:
       - name: Ashir
         technique: Digital(Procreate)
         path:
-          - Ashir_1.png
-          - Ashir_2.png
+          - Ashir_1.jpg
+          - Ashir_2.jpg
       - name: Wine's an attitude
         technique: Digital (Illustrator)
         path:
@@ -13,7 +13,7 @@ portfolio:
       - name: Blue Lady
         technique: Digital (Illustrator)
         path:
-          - BlueLady.png
+          - BlueLady.jpg
       - name: Lam&Cat
         technique: Digital ( Illustrator)
         path:
@@ -25,7 +25,7 @@ portfolio:
       - name: Big Picture
         technique: Ink + Watercolor
         path:
-          - BigPicture.png
+          - BigPicture.jpg
   - year: 2019
     work:
       - name: Circle
@@ -35,7 +35,7 @@ portfolio:
       - name: City
         technique: Photoshop
         path:
-          - City_Turn_Trial_2.gif
+          - City_Turn_Trial_2.jpg
       - name: Double Perspective
         technique: Photoshop
         path:
@@ -53,15 +53,15 @@ portfolio:
       - name: Thought Processes
         technique: Mixed media (print, collage, Photoshop)
         path:
-          - ThoughtProcesses.png
+          - ThoughtProcesses.jpg
       - name: Nature
         technique: Mixed media
         path:
-          - Nature.png
+          - Nature.jpg
       - name: Social media
         technique: Mixed media
         path:
-          - SocialMedia.png
+          - SocialMedia.jpg
       - name: Notre Dame
         technique: Mixed media
         path:
@@ -79,7 +79,7 @@ portfolio:
       - name: Alice in Wonderland
         technique: Photoshop
         path:
-          - AliceInWonderland.png
+          - AliceInWonderland.jpg
   - year: 2018
   - year: 2017
   - year: 2016
@@ -87,47 +87,47 @@ portfolio:
       - name: Emotions
         technique: Oil
         path:
-          - Emotions.png
+          - Emotions.jpg
       - name: Ingrid
         technique: Oil + collage
         path:
-          - Ingrid.png
+          - Ingrid.jpg
       - name: Sculpturesc
         technique: Oil
         path:
-          - Sculpture.png
+          - Sculpture.jpg
       - name: Lady In Green
         technique: Oil
         path:
-          - LadyInGreen.png
+          - LadyInGreen.jpg
       - name: Lady In Red
         technique: Oil
         path:
-          - LadyInRed.png
+          - LadyInRed.jpg
       - name: Self Portrait
         technique: Oil
         path:
-          - SelfPortrait.png
+          - SelfPortrait.jpg
       - name: Static Nature in Orange and Blue
         technique: Oil
         path:
-          - StaticNatureOrangeBlue.png
+          - StaticNatureOrangeBlue.jpg
       - name: Waiting
         technique: Oil
         path:
-          - Waiting.png
+          - Waiting.jpg
       - name: Waiting Lady
         technique: Oil
         path:
-          - WaitingLady.png
+          - WaitingLady.jpg
       - name: Yellow
         technique: Oil
         path:
-          - Yellow.png
+          - Yellow.jpg
       - name: Red
         technique: Oil
         path:
-          - LadyRedBlack.png
+          - LadyRedBlack.jpg
   - year: 2015
   - year: 2014
   - year: 2013
@@ -136,63 +136,63 @@ portfolio:
       - name: The Introvert
         technique: Ink
         path:
-          - Introvert.png
+          - Introvert.jpg
       - name: Emotion Croquis
         technique: Ink
         path:
-          - EmotionCroquis.png
+          - EmotionCroquis.jpg
       - name: Teen
         technique: Pencil
         path:
-          - Teen.png
+          - Teen.jpeg
       - name: Croquis of a male body
         technique: Pencil
         path:
-          - Croquis1.png
+          - Croquis1.jpg
       - name: Mother
         technique: Pencil
         path:
-          - Mother.png
+          - Mother.jpg
   - year: 2011
     work:
       - name: Scream
         technique: Oil
         path:
-          - Scream.png
+          - Scream.jpg
       - name: Roots
         technique: Oil
         path:
-          - Roots.png
+          - Roots.jpg
       - name: Horse Sketch
         technique: Pencil
         path:
-          - Horse.png
+          - Horse.jpg
       - name: Green
         technique: Ink
         path:
-          - Green.png
+          - Green.jpg
   - year: 2010
     work:
       - name: No emotions
         technique: Oil + Gold Foil
         path:
-          - Robot.png
+          - Robot.jpg
       - name: Last Dance
         technique: Oil
         path:
-          - LastDance.png
+          - LastDance.jpg
       - name: Potrait of Josette Gris
         details: Reproduction (original by Juan Gris)
         technique: Guache
         path:
-          - PotraitOfJosetteGris.png
+          - PotraitOfJosetteGris.jpg
   - year: 2009
     work:
       - name: Time
         technique: Acrylic on Canvas
         path:
-          - Time.png
+          - Time.jpg
       - name: Original Sin
         technique: Acrylic on Canvas
         path:
-          - OriginalSin.png
+          - OriginalSin.jpg
