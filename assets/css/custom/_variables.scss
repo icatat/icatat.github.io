@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd11f2b8e846471c88cbbc691ecc8171781d27222472c65e11ea69206a9adc8f
-size 378
+$gray: rgb(70, 75, 87);
+$gray-light: rgb(147, 156, 179);
+$gray-dark: rgb(35, 38, 44);
+
+$orange: rgb(250, 75, 6);
+$orange-light: rgb(247, 139, 96);
+$orange-dark: rgb(114, 35, 3);
+
+$colors: (
+  'gray': $gray,
+  'gray-dark': $gray-dark,
+  'gray-light': $gray-light,
+  'orange': $orange,
+  'orange-light': $orange-light,
+  'orange-dark': $orange-dark,
+) !default;
+
+$body-bg: $gray;

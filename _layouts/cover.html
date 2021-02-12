@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bc9691cbdc76511da405fb72350aa79875953dafb16d13135d1286a47bdc3df
-size 883
+---
+author: cat
+---
+
+<!DOCTYPE html>
+<html  lang="en">
+    {% include head.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+</head>
+<body>
+    <div class="content-container"> 
+        <div  class=" main-container">
+            <div style="display: flex; margin: 50px auto;">
+                <h1 style="white-space: pre-wrap; justify-content: center; margin: auto;  display: flex;"><span style="color:white">Cat</span>alina<span style="color:white"> Ion</span>escu</h1>
+            </div>
+            {{ content }}
+            <div class="container-fluid" style="margin:auto 0px;">
+            {% include badge.html %} 
+            </div>
+            <div>
+            {% include navigation.html %} {{ content }}
+            </div>
+        </div>
+        {% include footer-signature.html %} 
+    </div>
+    {% include footer.html %} 
+</body>
+
+</html>

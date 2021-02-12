@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb4a215c71507f9867d1cea1f00e1092eb4305081b0f044872d11342d7ee1159
-size 214
+---
+layout: default
+title: Blog
+---
+
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </li>
+  {% endfor %}
+</ul>

@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:ee1591d21539000b2b3d23c2b482544bf739bac9a2cd261bfdd9eade8a264634
 size 121
+=======
+//
+// Visibility utilities
+//
+
+.visible {
+  @include invisible(visible);
+}
+
+.invisible {
+  @include invisible(hidden);
+}
+>>>>>>> 7755a3bfa9819a6bec67bd2d7c0eb77fa59b3e2a

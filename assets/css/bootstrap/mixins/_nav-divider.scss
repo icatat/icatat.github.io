@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18e291aea72e646b6a76b68c79284fa2b34a38878d0b7f16650e95680342b0d1
-size 220
+// Horizontal dividers
+//
+// Dividers (basically an hr) within dropdowns and nav lists
+
+@mixin nav-divider($color: #e5e5e5) {
+  height: 0;
+  margin: ($spacer / 2) 0;
+  overflow: hidden;
+  border-top: 1px solid $color;
+}

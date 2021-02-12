@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c7749326735a431f9489cd9422f6e0c84d58bd1815dcb2ef43407725cb391d8
-size 385
+// Navbar vertical align
+//
+// Vertically center elements in the navbar.
+// Example: an element has a height of 30px, so write out `.navbar-vertical-align(30px);`
+// to calculate the appropriate top margin.
+
+// @mixin navbar-vertical-align($element-height) {
+//   margin-top: (($navbar-height - $element-height) / 2);
+//   margin-bottom: (($navbar-height - $element-height) / 2);
+// }

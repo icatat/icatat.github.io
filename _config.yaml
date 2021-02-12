@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6bd2ca88eea28304cda0f87fcdcdb5bda203160fed488bd2c112443c2f9f44d6
-size 153
+# Permalinks
+permalink: /:title
+collections:
+  authors:
+    output: true
+sass:
+  sass_dir: assets/css
+sass:
+  style: compressed
+
+exclude: [node_modules]

@@ -1,3 +1,97 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c54a017a7784846fbb2f3f0b753e594ef922dcce2b2bff8b395bdbf9a91d7774
-size 1437
+// Your variable overrides
+
+// @import 'bootstrap/bootstrap';
+@import 'custom/custom';
+
+.badge {
+  justify-content: center;
+}
+
+.badge,
+.badge-about {
+  background-color: $orange !important;
+  height: fit-content;
+  color: $gray-dark !important;
+  width: '-webkit-fill-available' !important;
+}
+
+img {
+  height: 350px;
+}
+
+.nav-link {
+  color: $gray-light;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.8em;
+  width: '-webkit-fill-available' !important;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.main-container {
+  flex: 1;
+}
+
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(md) {
+    column-count: 3;
+  }
+  @include media-breakpoint-only(sm) {
+    column-count: 2;
+  }
+  @include media-breakpoint-only(xs) {
+    column-count: 1;
+  }
+}
+
+.separator {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  height: 50px;
+
+  > h6 {
+    color: $orange-light;
+  }
+}
+.separator::before,
+.separator::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid $gray-light;
+  margin-bottom: 0.35rem;
+}
+.separator::before {
+  margin-right: 0.25em;
+}
+.separator::after {
+  margin-left: 0.25em;
+}
+
+#navbar-chrono {
+  > .nav-link {
+    color: $orange-light;
+  }
+}
+
+.nav-link {
+  color: $orange-light;
+  :hover {
+    color: $orange;
+  }
+}
+
+.nav-link :hover {
+}

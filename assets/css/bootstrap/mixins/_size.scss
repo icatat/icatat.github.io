@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7070230dfdbd3f8258f9ae696e3a8aa29a9ae7b174d9daa1c97d830e7f039e15
-size 98
+// Sizing shortcuts
+
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:985723ea883e1a999cf0ae911f5e50d3da60dbb5858287f0196926b3f90d77fb
-size 109
+pages:
+  - name: About
+    link: /about.html
+  - name: Portfolio
+    link: /portfolio.html
+  - name: Contact

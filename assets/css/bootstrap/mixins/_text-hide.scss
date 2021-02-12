@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6f4cd71f1e5617799aaf49fda8165f0a9964b64e5e7be04e831db7326f34326
-size 231
+// CSS image replacement
+@mixin text-hide() {
+  // stylelint-disable-next-line font-family-no-missing-generic-family-keyword
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}

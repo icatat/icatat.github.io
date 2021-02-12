@@ -1,3 +1,198 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2f522b18d972a093467a9d877b625d06bcdc1795d2131510e875f1b8db5ecfb
-size 4594
+portfolio:
+  - year: 2020
+    work:
+      - name: Ashir
+        technique: Digital(Procreate)
+        path:
+          - Ashir_1.jpg
+          - Ashir_2.jpg
+      - name: Wine's an attitude
+        technique: Digital (Illustrator)
+        path:
+          - WinesAnAttitude.png
+      - name: Blue Lady
+        technique: Digital (Illustrator)
+        path:
+          - BlueLady.jpg
+      - name: Lam&Cat
+        technique: Digital ( Illustrator)
+        path:
+          - Lam&Cat.jpg
+      - name: Big City
+        technique: Oil
+        path:
+          - BigCity.jpg
+      - name: Big Picture
+        technique: Ink + Watercolor
+        path:
+          - BigPicture.jpg
+  - year: 2019
+    work:
+      - name: Circle
+        technique: Photoshop
+        path:
+          - Circle.jpg
+      - name: City
+        technique: Photoshop
+        path:
+          - City_Turn_Trial_2.jpg
+      - name: Double Perspective
+        technique: Photoshop
+        path:
+          - Double_Perspective.jpg
+      - name: Find Yourself
+        technique: Photoshop
+        path:
+          - FindYourself.jpg
+      - name: Transition
+        technique: Photoshop
+        path:
+          - Transition_1.jpg
+          - Transition_2.jpg
+          - Transition_3.jpg
+      - name: Thought Processes
+        technique: Mixed media (print, collage, Photoshop)
+        path:
+          - ThoughtProcesses.jpg
+      - name: Nature
+        technique: Mixed media
+        path:
+          - Nature.jpg
+      - name: Social media
+        technique: Mixed media
+        path:
+          - SocialMedia.jpg
+      - name: Notre Dame
+        technique: Mixed media
+        path:
+          - NotreDame.png
+      - name: Where Cultures Meet
+        technique: Mixed Printing + Photoshop
+        path:
+          - WhereCulturesMeet.jpg
+          - Vietnam.jpg
+          - NewYork.jpg
+      - name: Mother Nature
+        technique: Mixed media
+        path:
+          - MotherNature.jpg
+      - name: Alice in Wonderland
+        technique: Photoshop
+        path:
+          - AliceInWonderland.jpg
+  - year: 2018
+  - year: 2017
+  - year: 2016
+    work:
+      - name: Emotions
+        technique: Oil
+        path:
+          - Emotions.jpg
+      - name: Ingrid
+        technique: Oil + collage
+        path:
+          - Ingrid.jpg
+      - name: Sculpturesc
+        technique: Oil
+        path:
+          - Sculpture.jpg
+      - name: Lady In Green
+        technique: Oil
+        path:
+          - LadyInGreen.jpg
+      - name: Lady In Red
+        technique: Oil
+        path:
+          - LadyInRed.jpg
+      - name: Self Portrait
+        technique: Oil
+        path:
+          - SelfPortrait.jpg
+      - name: Static Nature in Orange and Blue
+        technique: Oil
+        path:
+          - StaticNatureOrangeBlue.jpg
+      - name: Waiting
+        technique: Oil
+        path:
+          - Waiting.jpg
+      - name: Waiting Lady
+        technique: Oil
+        path:
+          - WaitingLady.jpg
+      - name: Yellow
+        technique: Oil
+        path:
+          - Yellow.jpg
+      - name: Red
+        technique: Oil
+        path:
+          - LadyRedBlack.jpg
+  - year: 2015
+  - year: 2014
+  - year: 2013
+  - year: 2012
+    work:
+      - name: The Introvert
+        technique: Ink
+        path:
+          - Introvert.jpg
+      - name: Emotion Croquis
+        technique: Ink
+        path:
+          - EmotionCroquis.jpg
+      - name: Teen
+        technique: Pencil
+        path:
+          - Teen.jpeg
+      - name: Croquis of a male body
+        technique: Pencil
+        path:
+          - Croquis1.jpg
+      - name: Mother
+        technique: Pencil
+        path:
+          - Mother.jpg
+  - year: 2011
+    work:
+      - name: Scream
+        technique: Oil
+        path:
+          - Scream.jpg
+      - name: Roots
+        technique: Oil
+        path:
+          - Roots.jpg
+      - name: Horse Sketch
+        technique: Pencil
+        path:
+          - Horse.jpg
+      - name: Green
+        technique: Ink
+        path:
+          - Green.jpg
+  - year: 2010
+    work:
+      - name: No emotions
+        technique: Oil + Gold Foil
+        path:
+          - Robot.jpg
+      - name: Last Dance
+        technique: Oil
+        path:
+          - LastDance.jpg
+      - name: Potrait of Josette Gris
+        details: Reproduction (original by Juan Gris)
+        technique: Guache
+        path:
+          - PotraitOfJosetteGris.jpg
+  - year: 2009
+    work:
+      - name: Time
+        technique: Acrylic on Canvas
+        path:
+          - Time.jpg
+      - name: Original Sin
+        technique: Acrylic on Canvas
+        path:
+          - OriginalSin.jpg

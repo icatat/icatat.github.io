@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb451fbb6855f702f240769e9f948feeca01973041de35778708072063f3bd3d
-size 1424
+<!DOCTYPE html>
+<html  lang="en">
+    {% include head.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+</head>
+<body>
+    <div class="content-container">
+        <div class=" main-container" >
+            <div style="width: -webkit-fill-available">
+                <nav class="navbar navbar-dark bg-dark">
+                    <a class="navbar-brand" href="/cover.html">
+                    Cation
+                    </a>
+                    {% include navigation.html %}
+                </nav>
+            </div>
+            <div style="display: flex;"> 
+                <nav id="navbar-chrono" class="navbar navbar-dark bg-dark col" style="align-items: flex-start;">
+                    <nav class="nav nav-pills flex-column">
+                        {% for y in site.data.art.portfolio %}
+                         <a class="nav-link" href="#{{y.year}}">{{y.year}}</a>
+                        {% endfor %}
+                    </nav>
+                  </nav>
+                  
+                  <div data-spy="scroll" data-target="#navbar-example3" data-offset="0">
+
+                    {% include art.html %}
+                  </div>
+            </div>
+            <!-- <div class="col-sm-9 col-md-9 col-lg-9" >
+            {% include art.html %}
+            </div> -->
+        </div>
+        {% include footer-signature.html %} 
+    </div>
+    {% include footer.html %} 
+</body>
+</html>

@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb215a686dce2771c2ac21e641115b5629d36ae12207379bbf1ff9f8fd09d9d3
-size 709
+<!DOCTYPE html>
+<html  lang="en">
+    {% include head.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+</head>
+<body>
+    <div class="content-container">
+        <div class="main-container">
+            <div>
+                <nav class="navbar navbar-dark bg-dark">
+                    <a class="navbar-brand" href="/cover.html">
+                    Cation
+                    </a>
+                    {% include navigation.html %}
+                </nav>
+            </div>
+            <div >
+                {% include about.html %} 
+            </div>
+        </div>    
+        {% include footer-signature.html %} 
+    </div>
+    {% include footer.html %} 
+</body>
+</html>

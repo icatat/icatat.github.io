@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76bf82932061afcd843b871850ca90a2bb0dc1174b9aef1d6e08ac060ec312a5
-size 217
+<ul class="nav justify-content-center">
+  {% for item in site.data.navigation.pages %}
+  <li class="nav-item">
+    <a class="nav-link disabled" href="{{item.link }}"> {{ item.name }} </a>
+  </li>
+  {% endfor %}
+</ul>
