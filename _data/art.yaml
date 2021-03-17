@@ -1,16 +1,17 @@
 portfolio:
   - year: 2021
     work:
-    - name: Ashir
-      technique: Digital(Procreate)
-      path:
-        - HeartSanitizer.jpg
-    work:
-    - name: Heart Sanitizer
-      technique: Digital (Illustrator)
-      path:
-        - Ashir_1.jpg
+      - name: Heart Sanitizer
+        technique: Digital(Illustrator)
+        path:
+          - HeartSanitizer.jpg
+      - name: Ashir
+        technique: Digital (Procreate)
+        path:
+          - Ashir_1.jpg
+          - Ashir_2.jpg
   - year: 2020
+    work:
       - name: Wine's an attitude
         technique: Digital (Illustrator)
         path:
