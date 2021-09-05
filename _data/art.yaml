@@ -1,6 +1,10 @@
 portfolio:
   - year: 2021
     work:
+      - name: Loneliness
+        technique: Oil on canvas
+        path:
+          - Loneliness.jpg
       - name: Heart Sanitizer
         technique: Digital(Illustrator)
         path:
